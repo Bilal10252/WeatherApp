@@ -33,8 +33,7 @@ function App() {
     
     
   }
-  console.log(weatherData);
-  console.log(weatherForcast);
+  
   
 
 
